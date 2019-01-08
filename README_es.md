@@ -32,6 +32,6 @@ organización que hubiera tecleado (ejemplo de organizacines validas: microsoft,
 
   - Create una nueva propiedad en MembersTableComponent y que por defecto valga _lemoncode_.
   - Crea un input al lado del botón de carga, este botón mostrarar la orgainzación actual elegida (propiedad  creada en paso anterior).
-  - Enlaza el evento change para que detectar que cuando cambie actualize la propiedad organización. Podemos utilizar la directiva ngModel para tal fin.
+  - Enlaza la propiedad organización. Utiliza la directiva ngModel (two way binding) para tal fin.
   - Cuando el usuario pulso en el botón de cargar, en vez de pasar el valor harcodeado _lemoncode_ que pase el 
   valor de la propiedad.

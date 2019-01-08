@@ -30,7 +30,7 @@ orgnization he wants, hit ok and display the list of members for that organizati
 
   - Create a new property on MembersTableComponent with the current organization name (_lemoncode_ by default).
   - Create an input to hold the organization member name.
-  - Tie up on change to the organization property change. You can use ngModel directictive to achieve this goal.
+  - Tie up organization property change. Use ngModel (two way binding) directive to achieve this goal.
   - Use the organization property before running the query.
 
 # About Lemoncode
