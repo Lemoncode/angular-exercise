@@ -15,7 +15,7 @@ import {
   declarations: [
     MemberRowComponent,
     MemberHeadComponent,
-    MembersTableComponent
+    MembersTableComponent,
   ],
   exports: [
     MembersTableComponent
