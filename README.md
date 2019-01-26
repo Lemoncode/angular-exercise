@@ -33,6 +33,20 @@ orgnization he wants, hit ok and display the list of members for that organizati
   - Tie up organization property change. Use ngModel (two way binding) directive to achieve this goal.
   - Use the organization property before running the query.
 
+# Optional
+
+As optional part of this exercise you can migrate it to ngrx. Just for simplicity, just handle in ngrx the input changes and read the new state on component. Do not handle load data side effect.
+
+- Hints
+
+    - Install @ngrx/store
+    - Link store to app module (use forRoot)
+    - Link store to feature module (use forFeature)
+    - Create action for input organization changes
+    - Create reducer
+    - Dispatch action from component
+    - Read the new state provide by ngrx
+
 # About Lemoncode
 
 We are a team of long-term experienced freelance developers, established as a group in 2010.
