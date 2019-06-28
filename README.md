@@ -1,6 +1,6 @@
 # Intro
 
-The goal of this sample to is get started with Angular.
+The goal of this sample is to get started with Angular.
 
 We will get as starting point an application that displays a list of github members that
 belongs to an organization (in the starting excercise is hardcoded to _lemoncode_), and 
@@ -8,7 +8,7 @@ we will add an input element to let the user choose another organization to quer
 
 # Excercise
 
-- Start with the stating implementation that is located under the folder *00_start*.
+- Start with the starting implementation that is located under the folder *00_start*.
 
 - Let's install the needed dependencies.
 
