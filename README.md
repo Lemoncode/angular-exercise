@@ -1,6 +1,6 @@
 # Intro
 
-The goal of this sample to is get started with Angular.
+The goal of this sample is to get started with Angular.
 
 We will get as starting point an application that displays a list of github members that
 belongs to an organization (in the starting excercise is hardcoded to _lemoncode_), and 
@@ -8,7 +8,7 @@ we will add an input element to let the user choose another organization to quer
 
 # Excercise
 
-- Start with the stating implementation that is located under the folder *00_start*.
+- Start with the starting implementation that is located under the folder *00_start*.
 
 - Let's install the needed dependencies.
 
@@ -47,7 +47,12 @@ As optional part of this exercise you can migrate it to ngrx. Just for simplicit
     - Dispatch action from component
     - Read the new state provide by ngrx
 
-# About Lemoncode
+# About Basefactor + Lemoncode
 
-We are a team of long-term experienced freelance developers, established as a group in 2010.
-We specialize in Front End technologies and .NET. [Click here](http://lemoncode.net/services/en/#en-home) to get more info about us. 
+We are an innovating team of Javascript experts, passionate about turning your ideas into robust products.
+
+[Basefactor, consultancy by Lemoncode](http://www.basefactor.com) provides consultancy and coaching services.
+
+[Lemoncode](http://lemoncode.net/services/en/#en-home) provides training services.
+
+For the LATAM/Spanish audience we are running an Online Front End Master degree, more info: http://lemoncode.net/master-frontend
